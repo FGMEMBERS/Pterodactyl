@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList include="pterodactyl-base.xml">
+
+  <sim>
+
+    <description>Westland Pterodactyl (YASim)</description>
+    <flight-model archive="y">yasim</flight-model>
+    <aero archive="y">pterodactyl-yasim</aero>
+
+  </sim>
+
+</PropertyList>
+
